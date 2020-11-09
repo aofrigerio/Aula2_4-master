@@ -8,7 +8,7 @@ import { studentRouter } from './routes/studentRoutes.js';
 const app = express();
 
 /*Conexao com o MongoDB*/
-/*Teste de GIT*/
+/* Teste de GIT */
 (async () => {
   try {
     await mongoose.connect(
